@@ -1,2 +1,2 @@
-# data_fusion_competition
-Сlassification of goods category by its description
+### Cоревнование DataFusion, место 68/265 место, скор *F1* - 0.8401382.
+### Категоризация товаров по их наименованию
